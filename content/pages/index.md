@@ -1,5 +1,5 @@
 ---
-title: 'Angie`s Buy Sell '
+title: Angie`s Buy Sell & Trade
 sections:
   - type: hero_section
     title: 'Hi, I’m Alyvia. I help my clients succeed online.'
