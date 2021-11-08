@@ -19,7 +19,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     title: ' Angie`s Buy Sell & Trade'
-    subtitle: 'Hi Im Angie owner of Angie`s Buy Sell & Trade we are a home based store '
+    subtitle: Hi Im Angie owner of Angie`s Buy Sell & Trade we are a home based store i
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
