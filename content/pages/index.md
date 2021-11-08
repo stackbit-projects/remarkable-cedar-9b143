@@ -19,6 +19,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     title: ' Angie`s Buy Sell & Trade'
+    subtitle: Hi I
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
