@@ -21,7 +21,7 @@ sections:
     title: ' Angie`s Buy Sell & Trade'
     subtitle: >-
       Hi Im Angie owner of Angie`s Buy Sell & Trade we are a home and online
-      based store in mobile,
+      based store in mobile,ala our motto is if we ain`t got it we will get it
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
